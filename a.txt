@@ -1,1 +1,1 @@
-This is test for VSCode on Chromebook.
+This is a test for VSCode on Chromebook.
